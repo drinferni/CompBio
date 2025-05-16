@@ -1,0 +1,74 @@
+--IMCP
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.7405509037577971, "rmse": 1.535932383503946}
+gb:
+casf2016 --- {"PC": 0.7208498982327525, "rmse": 1.5508230139286636}
+
+--IMC
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.6820355089412397, "rmse": 1.6459212726495862}
+gb:
+casf2016 --- {"PC": 0.6724027360186908, "rmse": 1.6411305714113507}
+
+--IMCEP
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.7485937621011423, "rmse": 1.5396495825669387}
+gb:
+casf2016 --- {"PC": 0.7005170871165507, "rmse": 1.5554180022437827}
+
+
+--IMCPiEB
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.7520526428127794, "rmse": 1.5315062348794326}
+gb:
+casf2016 --- {"PC": 0.682913298759408, "rmse": 1.593105164633386}
+
+
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.7520526428127794, "rmse": 1.5315062348794326}
+gb:
+casf2016 --- {"PC": 0.682913298759408, "rmse": 1.593105164633386}
+sv:
+casf2016 --- {"PC": 0.6824271985235698, "rmse": 1.6521655168222193}
+
+
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 4], [4, 8], [8, 12], [12, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.7486642469946367, "rmse": 1.548943118713155}
+gb:
+casf2016 --- {"PC": 0.7241973045605815, "rmse": 1.5262655800398548}
+sv:
+casf2016 --- {"PC": 0.7040200148113311, "rmse": 1.6205281547528922}
+
+
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 4], [4, 8], [8, 12], [12, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.7549885540008445, "rmse": 1.524160692266409}
+gb:
+casf2016 --- {"PC": 0.6825495262983037, "rmse": 1.5969975084812904}
+sv:
+casf2016 --- {"PC": 0.6902335585862336, "rmse": 1.6587418595828}
+
+
+{"addH": true, "sant": false, "cutoff": 18, "ifp_type": "rfscore_ext", "bins": [[0, 6], [6, 12], [12, 18]]}
+Validation results: 
+rf:
+casf2016 --- {"PC": 0.7550240630819095, "rmse": 1.5127806082079067}
+gb:
+casf2016 --- {"PC": 0.7365603092423003, "rmse": 1.5087371305557462}
+sv:
+casf2016 --- {"PC": 0.6897771535547206, "rmse": 1.656929056369207}
+
+
